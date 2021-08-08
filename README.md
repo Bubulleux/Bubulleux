@@ -32,13 +32,5 @@
 - Windows
 - People who says "VS code or VS > Jetbrains Suite"
 - Ixenax
-
-## My stat
-<p float="left">
- 	<img alt="lambdagg's contributions" src="https://github-readme-stats.vercel.app/api?username=lambdagg&theme=dark&count_private=true" />
-	</br>
- 	<img alt="lambdagg's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lambdagg&theme=dark&layout=compact" />
-</p>
-
  
 ### I'm a cat who loves cookies
