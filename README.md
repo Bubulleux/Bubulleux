@@ -4,10 +4,10 @@
 - I start Coding in 2018
 - I start with a really weird programming language who work in only one game (garry's mod) who it's called Expression 2
 - I love learn new thing about computer science
-- I'm juste passionate
+- I'm just passionate
 - I Programe when i want
 - I'm French
-- My English is bad i'm trying to improve
+- My English is bad i'm trying to improve ig
 - My Discord name is BuBulle#5074
 
 
