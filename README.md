@@ -1,8 +1,44 @@
-- 👋 Hi, I’m @Bubulleux
-- 👀 I’m interested in a lot of thing
-- 🌱 I’m currently learning C
+## Me
+- I'm 16 (if i don't update this, i'm a 2005) 
+- My real pseudo id Bubulle
+- I start Coding in 2018
+- I start with a really weird programming language who work in only one game (garry's mod) who it's called Expression 2
+- I love learn new thing about computer science
+- I'm juste passionate
+- I Programe when i want
+- I'm French
+- My English is bad i'm trying to improve
+- My Discord name is BuBulle#5074
+
+
+## I code in
+- [C#](https://github.com/Bubulleux?tab=repositories&language=c%23) (I have starded in 2019)
+- [C](https://github.com/Bubulleux?tab=repositories&q=&type=&language=c&sort=) (2021)
+- [Python](https://github.com/Bubulleux?tab=repositories&q=&type=&language=python&sort=) (2020)
+- [JavaScript / NodeJs / HTML / CSS](https://github.com/Bubulleux?tab=repositories&q=&type=&language=javascript&sort=) (I have really started in 2021)
+ 
+ 
+## I know how to use
+- [Unity](https://github.com/Bubulleux?tab=repositories&language=c%23) 
+- Visual Studio
+- Visual Studio Code
+- JetBrain Suite
+- Ubuntu
+
+## I Hate
+- PHP
+- Space Identation
+- Identation by 2
+- Windows
+- People who says "VS code or VS > Jetbrains Suite"
+- Ixenax
+
+## My stat
 <p float="left">
-  <img alt="lambdagg's contributions" src="https://github-readme-stats.vercel.app/api?username=lambdagg&theme=dark&count_private=true" />
-  <img alt="lambdagg's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lambdagg&theme=dark&layout=compact" /> 
+ 	<img alt="lambdagg's contributions" src="https://github-readme-stats.vercel.app/api?username=lambdagg&theme=dark&count_private=true" />
+	</br>
+ 	<img alt="lambdagg's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lambdagg&theme=dark&layout=compact" />
 </p>
 
+ 
+### I'm a cat who loves cookies
