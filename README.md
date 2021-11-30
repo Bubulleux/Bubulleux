@@ -1,5 +1,4 @@
 ## Me
-- I'm 16 (if i don't update this, i'm a 2005) 
 - My real pseudo id Bubulle
 - I start Coding in 2018
 - I start with a really weird programming language who work in only one game (garry's mod) who it's called Expression 2
